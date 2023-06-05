@@ -1,6 +1,8 @@
 # Multiple Disease Prediction System
 
 The Multiple Disease Prediction System is a web application that utilizes machine learning to predict the likelihood of three different diseases: diabetes, heart disease, and Parkinson's disease. The application is deployed on Streamlit, providing an intuitive and interactive user interface.
+App Link - https://jyotiradityakabiraj-multiple-disease-prediction-web-mdps-s5mzb2.streamlit.app/
+
 
 ## Features
 
