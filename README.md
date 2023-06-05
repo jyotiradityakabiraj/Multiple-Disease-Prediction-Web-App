@@ -18,6 +18,6 @@ The application utilizes pre-trained machine learning models for each disease pr
 ## Contributions
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue in the GitHub repository.
--Jyotiraditya Kabiraj
--Payal Singh
--Mohd. Shafe Lari
+- Jyotiraditya Kabiraj
+- Payal Singh
+- Mohd. Shafe Lari
